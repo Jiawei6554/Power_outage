@@ -1,0 +1,52 @@
+,state,Avg_F,Avg_C,Rank,Cold
+0,Alabama,46.5,8.1,7.0,False
+1,Alaska,2.6,-16.3,50.0,True
+2,Arizona,43.6,6.4,10.0,False
+3,Arkansas,41.5,5.3,12.0,False
+4,California,46.2,7.9,8.0,False
+5,Colorado,25.8,-3.4,35.0,True
+6,Connecticut,28.5,-1.9,30.0,True
+7,Delaware,36.1,2.3,16.0,False
+8,Florida,59.4,15.2,2.0,False
+9,Georgia,47.8,8.8,5.0,False
+10,Hawaii,67.4,19.7,1.0,False
+11,Idaho,25.4,-3.7,37.0,True
+12,Illinois,28.3,-2.1,32.0,True
+13,Indiana,29.4,-1.4,29.0,True
+14,Iowa,21.7,-5.7,39.0,True
+15,Kansas,31.9,-0.1,26.0,True
+16,Kentucky,35.9,2.2,18.0,False
+17,Louisiana,50.9,10.5,3.0,False
+18,Maine,16.8,-8.4,47.0,True
+19,Maryland,34.7,1.5,19.0,False
+20,Massachusetts,27.4,-2.6,34.0,True
+21,Michigan,21.7,-5.7,39.0,True
+22,Minnesota,12.4,-10.9,48.0,True
+23,Mississippi,46.7,8.2,6.0,False
+24,Missouri,32.3,0.2,24.0,False
+25,Montana,21.2,-6.0,41.0,True
+26,Nebraska,25.7,-3.5,36.0,True
+27,Nevada,32.2,0.1,25.0,False
+28,New Hampshire,21.1,-6.1,43.0,True
+29,New Jersey,33.0,0.6,21.0,False
+30,New Mexico,36.1,2.3,16.0,False
+31,New York,23.3,-4.8,38.0,True
+32,North Carolina,42.1,5.6,11.0,False
+33,North Dakota,12.2,-11.0,49.0,True
+34,Ohio,29.5,-1.4,28.0,True
+35,Oklahoma,39.1,3.9,13.0,False
+36,Oregon,34.0,1.1,20.0,False
+37,Pennsylvania,28.4,-2.0,31.0,True
+38,Rhode Island,31.4,-0.3,27.0,True
+39,South Carolina,46.1,7.8,9.0,False
+40,South Dakota,19.5,-6.9,44.0,True
+41,Tennessee,39.1,3.9,13.0,False
+42,Texas,47.9,8.8,4.0,False
+43,Utah,28.2,-2.1,33.0,True
+44,Vermont,19.4,-7.0,45.0,True
+45,Virginia,36.8,2.7,15.0,False
+46,Washington,33.0,0.6,21.0,False
+47,West Virginia,32.8,0.4,23.0,False
+48,Wisconsin,17.2,-8.2,46.0,True
+49,Wyoming,21.2,-6.0,41.0,True
+50,District of Columbia,39.0,3.89,,False
